@@ -6,7 +6,6 @@ Currently at Timenet Solutions Pvt. Ltd., deploying and managing EDR, XDR, SIEM,
 
 CompTIA Security+ certified · Based in Thiruvananthapuram, Kerala, India
 
-midhun.vk@outlook.com · LinkedIn · +91 89210 54880
 ---
 
 ## What I Work With
