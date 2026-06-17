@@ -12,10 +12,15 @@ CompTIA Security+ certified · Based in Thiruvananthapuram, Kerala, India
 
 
 Security & Monitoring   : SentinelOne (EDR/XDR) · ELK Stack (SIEM) · Wazuh · Splunk · Seqrite EPP · Security Onion · Snort · Suricata (IDS/IPS) · MS Defender · FTK Imager · Autopsy
+
 VAPT Tools              : Nessus · Burp Suite · HCL Appscan · Nmap · Metasploit · Acunetix · OpenVAS · MobSF · Nuclei · OWASP ZAP · Gobuster
+
 Frameworks & Standards  : MITRE ATT&CK · OWASP Top 10 · NIST CSF · ISO 27001
-Programming & Scripting : PowerShell · Python · Bash (Shell Scripting) · KQL                                                                          
+
+Programming & Scripting : PowerShell · Python · Bash (Shell Scripting) · KQL   
+
 Networking & Analysis   : Wireshark · Firewalls · VPN · Packet Tracer (Cisco) · Tera Term
+
 System Administration   : Windows/Ubuntu Server · Microsoft 365 · Windows AD · NetApp · Qnap · Nutanix · VMware ESXi
 
 ---
